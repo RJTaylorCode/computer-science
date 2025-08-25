@@ -43,5 +43,6 @@ This course is under review. The course has been designed to accommodate people 
 
 1. [https://introcomp.mit.edu/spring25/practice](https://introcomp.mit.edu/spring25/practice)
  
-## Completion dates:
+## Completion dates (yy/mm/dd):
 1. 25/08/23
+2. 25/08/25
